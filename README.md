@@ -20,6 +20,12 @@ Android创新实验室 整理制作
 
 ### Java    
 
+* 《Head First Java》
+
+* 《Java 核心编程》
+
+* 《Effective Java》
+
 * 《Java编程思想》经典 [PDF](http://vdisk.weibo.com/s/uvlsIKkNoLEAy)   
 
 * 《疯狂Java讲义》[PDF](https://pan.baidu.com/s/12pR78)    
@@ -49,7 +55,11 @@ Android创新实验室 整理制作
 
 * 《Android编程权威指南》 [PDF](https://pan.baidu.com/s/1mgtPkko)    
 
-* 《Android开发艺术探索》 [PDF](https://pan.baidu.com/s/1o8iseiI)    
+* 《Android开发艺术探索》 [PDF](https://pan.baidu.com/s/1o8iseiI)
+
+* 《Android源码设计模式解析与实战》
+
+* 《Android群英传》
 
 ## 计算机视觉     
 
