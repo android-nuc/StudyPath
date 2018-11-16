@@ -87,6 +87,15 @@ Android创新实验室 整理制作
 
 * 《OpenCV算法精解 基于Python与C++》    
 
+### OpenGL、OpenGL ES
+
+* 《OpenGL 超级宝典（英文第五版）》 [PDF](https://pan.baidu.com/s/17R1Vb5hn8RGMngbGbhz_Hw)
+
+* 《OpenGL 超级宝典（第五版）》 [PDF](https://pan.baidu.com/s/1O0louAI021S-OmJq03jf9Q)
+
+* 《OpenGL ES 3.0 编程指南》 [PDF](https://pan.baidu.com/s/1jCjn4uJfTeeyQsCSveux8Q)
+
+* 《OpenGL ES 应用开发实践指南 Android 卷》 [PDF](https://pan.baidu.com/s/1270Db97XJOOuLz5F5022MQ)
 
 ### 斯坦福大学公开课    
 
