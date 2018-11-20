@@ -97,7 +97,7 @@ Android创新实验室 整理制作
 
 * 《OpenGL ES 应用开发实践指南 Android 卷》 [PDF](https://pan.baidu.com/s/1270Db97XJOOuLz5F5022MQ)
 
-* [《The Book of Shaders》](The Book of Shaders)
+* [《The Book of Shaders》](https://thebookofshaders.com/)
 
 ### 斯坦福大学公开课    
 
